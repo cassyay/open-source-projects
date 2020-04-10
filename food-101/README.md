@@ -15,7 +15,7 @@ NumPy `1.17.5` <br>
 Torchvision `0.5.0` <br>
 Pandas `0.25.3` <br>
 
-**Table of Contents**
+**Table of Contents in food_101_classifier.ipynb notebook**
  - Motivation and Problem Statement
  - Examining Data Content
  - Examining Image Content
